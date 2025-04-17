@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\William Guay\\Unity\\TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|d:\\william guay\\unity\\tp2\\assets\\scripts\\spikeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|d:\\william guay\\unity\\tp2\\assets\\scripts\\coinshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|D:\\William Guay\\Unity\\TP2\\assets\\scripts\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|D:\\William Guay\\Unity\\TP2\\assets\\scripts\\raptor_ennemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raptor_ennemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|D:\\William Guay\\Unity\\TP2\\assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|D:\\William Guay\\Unity\\TP2\\assets\\scripts\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|D:\\William Guay\\Unity\\TP2\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|D:\\William Guay\\Unity\\TP2\\assets\\scripts\\menubuttonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C14DD74-C7A9-5BA5-F31A-8DB8DE273B2E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menubuttonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpikesHandler.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\SpikesHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpikesHandler.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\SpikesHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpikesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:14:39.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinsHandler.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\CoinsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinsHandler.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\CoinsHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:59:16.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAA8wAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:07:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuButtonsHandler.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\MenuButtonsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuButtonsHandler.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\MenuButtonsHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuButtonsHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T17:28:42.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Respawn.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\Respawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Respawn.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\Respawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Respawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:37:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Raptor_Ennemy.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\Raptor_Ennemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Raptor_Ennemy.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\Raptor_Ennemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Raptor_Ennemy.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:58:40.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlatformSpawner.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:15:51.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraHandler.cs",
+              "DocumentMoniker": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\CameraHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraHandler.cs",
+              "ToolTip": "D:\\William Guay\\Unity\\TP2\\Assets\\Scripts\\CameraHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:50:05.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
